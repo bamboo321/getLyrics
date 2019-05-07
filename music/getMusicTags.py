@@ -1,2 +1,2 @@
-from FLAC import mutagen.flac.FlAC
+from imutagen.flac.FlAC import FLAC
 
